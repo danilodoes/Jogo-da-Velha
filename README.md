@@ -2,10 +2,10 @@
 
 - Decidi criar esse projeto pensando em praticar conceitos que venho aprendendo no curso web dev fullstack.
 
-- Deixei espaço para algumas implementações, como:\n
-  Mostrar quem venceu;\n
-  Botão para resetar (ao invés de atualizar página);\n
-  Iniciar solicitando o nome dos players, entre outros.
+- Deixei espaço para algumas implementações, como:  
+  Mostrar quem venceu;  
+  Botão para resetar (ao invés de atualizar página);  
+  Iniciar solicitando o nome dos players, entre outros.  
 
 ## Objetivo do Projeto 🎯
 
