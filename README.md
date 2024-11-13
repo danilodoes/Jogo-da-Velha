@@ -1,8 +1,11 @@
 # Jogo da Velha - JavaScript Avançado
 
 - Decidi criar esse projeto pensando em praticar conceitos que venho aprendendo no curso web dev fullstack.
-  Deixei espaço para algumas implementações, como:
-- Mostrar quem venceu, botão para resetar (ao invés de atualizar página), iniciar solicitando o nome dos players, entre outros.
+
+- Deixei espaço para algumas implementações, como:
+  Mostrar quem venceu;
+  Botão para resetar (ao invés de atualizar página);
+  Iniciar solicitando o nome dos players, entre outros.
 
 ## Objetivo do Projeto 🎯
 
@@ -19,5 +22,5 @@
 ## Demo 📷
 
 <p align="center">
-  <img width="900" src="./toReadme/jv.gif">
+  <img width="500" src="./toReadme/jv.gif">
 </p>
